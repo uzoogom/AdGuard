@@ -6,3 +6,7 @@
 
 torrentgram50.com###body_text > div.col-md-12.at-col.at-main:nth-child(2)
 torrentgram50.com###body_text > div.widget-box:nth-child(5)
+
+!https://tkor.care/무료웹툰
+tkor.cool##div.section.mobile-banner.top_hr:nth-child(9) > div.container > div.row:first-child > div.col-md-12.mobile-banner:nth-child(2)
+tkor.cool###bo_list > div.clearfix:nth-child(2)
