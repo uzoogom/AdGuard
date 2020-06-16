@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
-! Homepage: https://github.com/uzoogom/AdGuard/filter.txt
+! Homepage: https://github.com/uzoogom
+! filter : https://raw.githubusercontent.com/uzoogom/AdGuard/master/filter.txt
 ! Title: uzoogom
 ! Expires: 1 days
 ! Version: 20200616
