@@ -1,6 +1,7 @@
-[AdGuard]
+[Adblock Plus 2.0]
 ! Homepage: https://github.com/uoogom/AdGuard
 ! Title: uzoogom
+! Expires: 1 days
 ! Version: 20200616
 
 torrentgram50.com###body_text > div.col-md-12.at-col.at-main:nth-child(2)
