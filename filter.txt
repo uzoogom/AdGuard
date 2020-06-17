@@ -2,13 +2,13 @@
 ! Homepage: https://github.com/uzoogom
 ! filter : https://raw.githubusercontent.com/uzoogom/AdGuard/master/filter.txt
 ! Title: uzoogom
-! Version: 20200618
+! Version: 20200619
 
-torrentgram50.com###body_text > div.col-md-12.at-col.at-main:nth-child(2)
-torrentgram50.com###body_text > div.widget-box:nth-child(5)
-
+!https://torrentgram.com
+###body_text > div.col-md-12.at-col.at-main:nth-child(2)
+###body_text > div.widget-box:nth-child(5)
 !https://tkor.care/무료웹툰
-tkor.cool###bo_list > div.clearfix:nth-child(2)
-tkor.cool##div.section.mobile-banner.top_hr:nth-child(9) > div.container > div.row:first-child > div.col-md-12.mobile-banner:nth-child(2)
-tkor.cool###thema_wrapper > div.wrapper.boxed > div > div.at-content > div.view-wrap:nth-child(4) > div.contents.panel.panel-default.view-head.no-attach:last-child > a:nth-child(3)
-tkor.cool###thema_wrapper > div.wrapper.boxed > div > div.at-content > div.view-wrap:nth-child(4) > div.contents.panel.panel-default.view-head.no-attach:last-child > div.bn.bnt:nth-child(9)
+###bo_list > div.clearfix:nth-child(2)
+##div.section.mobile-banner.top_hr:nth-child(9) > div.container > div.row:first-child > div.col-md-12.mobile-banner:nth-child(2)
+###thema_wrapper > div.wrapper.boxed > div > div.at-content > div.view-wrap:nth-child(4) > div.contents.panel.panel-default.view-head.no-attach:last-child > a:nth-child(3)
+###thema_wrapper > div.wrapper.boxed > div > div.at-content > div.view-wrap:nth-child(4) > div.contents.panel.panel-default.view-head.no-attach:last-child > div.bn.bnt:nth-child(9)
